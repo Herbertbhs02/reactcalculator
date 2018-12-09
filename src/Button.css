@@ -1,0 +1,10 @@
+.btn {
+   
+    background-color:grey;
+    font-size: 1.4em;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    color:black;
+    outline: 1px solid black;
+}

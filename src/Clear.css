@@ -1,0 +1,12 @@
+
+.clear{
+    display: flex;
+    background-color:rgba(20, 20, 20, 0.335);
+    font-size: 1.4em;
+    height: 1.5em;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    color:yellow;
+    outline: 1px solid black; 
+}
